@@ -29,6 +29,15 @@ Om de instructie te volgen, heb je naast je computer niets nodig.
 
 Ga naar https://scratch.mit.edu/projects/editor/ om aan de stappen te beginnen.
 
+Deze instructies gaan er vanuit dat je de pen uitbreiding gebruikt. Deze moet je eerst activeren:
+
+ * Open het overzicht met uitbreidingen:
+  ![knop om uitbreidingen te activeren](images/knop-om-uitbreidingen-te-activeren.png)
+ * Kies uit het overzicht de pen uitbreiding
+  ![keuzescherm uitbreidingen](images/keuze-scherm-uitbreidingen.png)
+ * Er zijn nu groene pen blokken beschikbaar die verder in de instructies worden gebruikt
+  ![blokken pen uitbreiding](images/blokken-pen-uitbreiding.png)
+
 ## Stappen
 
 ### Polygonen
@@ -102,7 +111,7 @@ Voordat we de Lissajous maken, beginnen we met een enkele sinusgolf:
 
 Hieronder de code die hiervoor gebruikt is. Het belangrijkste blokje is het groene, met daarin variabelen amplitude, frequentie en x. Dit blokje zorgt voor de golfvorm.
 
-![code voor golven](images/golf-code.PNG)
+![code voor golven](images/golf-code.png)
 
 **Opdracht 7**: Maak het voorbeeld na. Ziet het er hetzelfde uit als in het plaatje?  
 **Opdracht 8**: Probeer eens wat te varieren met de waarden van variabele amplitude en een frequentie. Wat gebeurd er?
@@ -121,7 +130,7 @@ a = 5, b = 4
 
 De code om er een te maken ziet er als volgt uit: 
 
-![code voor een lissajous](images/lissajous-code.PNG)
+![code voor een lissajous](images/lissajous-code.png)
 
 - Eerst wordt de pen gereset. Dan wordt de Lissajous functie aangeroepen met drie waardes: maat, a en b.
 - Daarna wordt er elke keer de X- en Y-positie berekend. Hiermee wordt de vorm getekend.
