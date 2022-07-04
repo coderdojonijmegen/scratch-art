@@ -93,10 +93,10 @@ Hierdoor beland je op het volgende scherm:
 
 ![maak een blok](images/maak-een-blok.png)
 
-Verander hier de naam van het blok van *bloknaam* naar *polygoon*. 
-Selecteer vervolgens *Voeg een invoer toe: getal of tekst*. 
-Noem deze invoer vervolgens *aantal hoeken* en klik op *OK*.
-Vanaf nu staat "polygoon" onder *Mijn blokken* vermeld. 
+Verander hier de naam van het blok van *bloknaam* naar *polygoon*.  
+Selecteer vervolgens *Voeg een invoer toe: getal of tekst*.  
+Noem deze invoer vervolgens *aantal hoeken* en klik op *OK*.  
+Vanaf nu staat "polygoon" onder *Mijn blokken* vermeld.  
 Daarnaast kan je de variabele "aantal hoeken" verkrijgen 
 door deze uit het *definieer polygoon* blok te slepen.
 
