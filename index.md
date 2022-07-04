@@ -16,9 +16,9 @@ Naast een leuke achtergrond en het bewegen van de kat van Scratch kun je nog vee
 
 Hier zie je een paar voorbeelden van wat je met Scratch kunt:
 
-|    |    |    |    |
-|----|----|----|----|
-|![voorbeeld 1](images/example-1.png)|![voorbeeld 2](images/example-2.png)|![voorbeeld 3](images/example-3.png)|![voorbeeld 4](images/example-4.png)|
+|                                      |                                      |                                      |                                      |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![voorbeeld 1](images/example-1.png) | ![voorbeeld 2](images/example-2.png) | ![voorbeeld 3](images/example-3.png) | ![voorbeeld 4](images/example-4.png) |
    
 
 Deze instructie leert je stap-voor-stap vergelijkbare tekeningen te maken.
@@ -84,7 +84,21 @@ Misschien valt het je op, dat de stappen voor de driehoek, vierhoek en vijfhoek 
 
 Bij de vierhoek en vijfhoek zagen we al dat het tekenen ervan vooral bestaat uit herhaling van stappen. Ook is er eigenlijk maar één getalletje dat veranderd; het aantal hoeken.
 
-Om verschillende polygonen te tekenen, is het dus handig om één blokje te hebben waarbij je het aantal hoeken kunt opgeven:
+Om verschillende polygonen te tekenen, is het dus handig om één blokje te hebben waarbij je het aantal hoeken kunt opgeven. 
+
+**Let op**: bij deze stap ga je zelf het blok "polygoon" samenstellen; 
+deze bestaat nog niet. 
+Om dit te doen ga je naar *Mijn blokken > maak een blok*. 
+Hierdoor beland je op het volgende scherm:
+
+![maak een blok](images/maak-een-blok.png)
+
+Verander hier de naam van het blok van *bloknaam* naar *polygoon*. 
+Selecteer vervolgens *Voeg een invoer toe: getal of tekst*. 
+Noem deze invoer vervolgens *aantal hoeken* en klik op *OK*.
+Vanaf nu staat "polygoon" onder *Mijn blokken* vermeld. 
+Daarnaast kan je de variabele "aantal hoeken" verkrijgen 
+door deze uit het *definieer polygoon* blok te slepen.
 
 ![code voor polygoon](images/polygoon-code.png)
 
