@@ -4,7 +4,7 @@ date: 2021-10-13T19:07:47+02:00
 draft: false
 toc: true
 headercolor: "teal-background"
-taal: Scratch
+onderwerp: Scratch
 ---
 
 We gaan kunst maken met Scratch.
