@@ -23,11 +23,13 @@ Hier zie je een paar voorbeelden van wat je met Scratch kunt:
 
 Deze instructie leert je stap-voor-stap vergelijkbare tekeningen te maken.
 
+<br>
+
 ## Benodigdheden
 
 Om de instructie te volgen, heb je naast je computer niets nodig.
 
-Ga naar https://scratch.mit.edu/projects/editor/ om aan de stappen te beginnen.
+Ga naar <a href="https://scratch.mit.edu/projects/editor/" target="_blank">https://scratch.mit.edu/projects/editor/</a> om aan de stappen te beginnen.
 
 Deze instructies gaan er vanuit dat je de pen uitbreiding gebruikt. Deze moet je eerst activeren:
 
@@ -38,10 +40,14 @@ Deze instructies gaan er vanuit dat je de pen uitbreiding gebruikt. Deze moet je
  * Er zijn nu groene pen blokken beschikbaar die verder in de instructies worden gebruikt
   ![blokken pen uitbreiding](images/blokken-pen-uitbreiding.png)
 
+<br>
+
 ## Stappen
 
 ### Polygonen
 Een polygoon is een ander woord voor een veelhoek. Een veelhoek is een vorm in een plat vlak met een aantal hoeken. Een veelhoek met 3 hoeken is een driehoek. Maar ook een achthoek is een veelhoek. In dit hoofdstuk gaan we veelhoeken tekenen.
+
+<br>
 
 #### Driehoek
 
@@ -58,7 +64,9 @@ Voor elke hoek doe je twee dingen:
 
 En dat herhaal je dan 3 keer.
 
-**Opdracht 1**: Maak het voorbeeld eens na en experimenteer eens met het aantal stappen of de hoeken.
+**Oefening 1**: Maak het voorbeeld eens na en experimenteer eens met het aantal stappen of de hoeken.
+
+<br>
 
 #### Vierhoek
 
@@ -75,10 +83,12 @@ Voor elke hoek doe je twee dingen:
 
 En dat herhaal je dan 4 keer.
 
-**Opdracht 2**: Neem je code van de driehoek en pas het aan zodat het een vierkant kan maken.  
-**Opdracht 3**: Neem je code van de vierhoek en probeer er eens een vijfhoek van te maken. Wat moet er veranderen?
+**Oefening 2**: Neem je code van de driehoek en pas het aan zodat het een vierkant kan maken.  
+**Oefening 3**: Neem je code van de vierhoek en probeer er eens een vijfhoek van te maken. Wat moet er veranderen?
 
 Misschien valt het je op, dat de stappen voor de driehoek, vierhoek en vijfhoek erg vergelijkbaar zijn. Het aantal herhalingen is gelijk aan het aantal hoeken en de hoek van de te maken draai wordt wordt steeds groter.
+
+<br>
 
 ### Polygoon functie
 
@@ -104,11 +114,13 @@ door deze uit het *definieer polygoon* blok te slepen.
 
 Links staat het nieuwe blok dat polygonen tekent. Rechts staat hoe je het nieuwe blok kunt gebruiken.
 
-**Opdracht 4**: Maak het voorbeeld na. Wat wordt er getekend?  
-**Opdracht 5**: Experimenteer eens wat met het aantal hoeken, wat gebeurt er als je een groot aantal hoeken (20?) kiest?  
-**Opdracht 6**: Kun je het volgende figuur maken?
+**Oefening 4**: Maak het voorbeeld na. Wat wordt er getekend?  
+**Oefening 5**: Experimenteer eens wat met het aantal hoeken, wat gebeurt er als je een groot aantal hoeken (20?) kiest?  
+**Oefening 6**: Kun je het volgende figuur maken?
 
 ![polygoon](images/polygoon.png)
+
+<br>
 
 ### Lissajous
 Een lissajous is een vorm gemaakt met een wiskundige formule. Het is een combinatie van twee golven.
@@ -127,8 +139,8 @@ Hieronder de code die hiervoor gebruikt is. Het belangrijkste blokje is het groe
 
 ![code voor golven](images/golf-code.png)
 
-**Opdracht 7**: Maak het voorbeeld na. Ziet het er hetzelfde uit als in het plaatje?  
-**Opdracht 8**: Probeer eens wat te varieren met de waarden van variabele amplitude en een frequentie. Wat gebeurd er?
+**Oefening 7**: Maak het voorbeeld na. Ziet het er hetzelfde uit als in het plaatje?  
+**Oefening 8**: Probeer eens wat te varieren met de waarden van variabele amplitude en een frequentie. Wat gebeurd er?
 
 ### Lissajous functie
 Hieronder staan een paar voorbeelden van een Lissajous. Met twee getallen (a en b) kan je aanpassen hoe een Lissajous eruit ziet.
@@ -151,17 +163,22 @@ De code om er een te maken ziet er als volgt uit:
 
 Het groene blokje dat zorgt voor de golfvorm, wordt nu twee keer wordt gebruikt in het blauwe 'ga naar' blok.
 
-**Opdracht 9**: Maak het voorbeeld na. Kun je de waarden a en b van de drie voorbeelden gebruiken? Zijn de getekende plaatjes dan hetzelfde als de drie voorbeelden?  
-**Opdracht 10**: Probeer eens rare getallen uit voor maar, a en b en kijk wat er gebeurd.  
-**Opdracht 11**: Maak de lissajous kleurrijk, zoals als opdracht 6.
+**Oefening 9**: Maak het voorbeeld na. Kun je de waarden a en b van de drie voorbeelden gebruiken? Zijn de getekende plaatjes dan hetzelfde als de drie voorbeelden?  
+**Oefening 10**: Probeer eens rare getallen uit voor maar, a en b en kijk wat er gebeurd.  
+**Oefening 11**: Maak de lissajous kleurrijk, zoals als oefening 6.
+
+<br>
 
 ## Conclusie
 Je hebt nu een indruk gekregen van hoe je met Scratch kunt tekenen. Eerst door veelhoeken of polygonen te tekenen en te herhalen en vervolgens door een Lissajous te maken.
 
-## Vervolg
-Heb je de smaak te pakken gekregen van het maken van kunst met Scratch? Kijk dan ook naar deze links:
+Heb je de smaak te pakken gekregen van het maken van kunst met Scratch? Kijk dan ook naar deze voorbeelden:
 
-- Scratch art voorbeelden: https://scratch.mit.edu/search/projects?q=art
-- Scratch kunst voorbeelden: https://scratch.mit.edu/search/projects?q=kunst
+- Scratch 'art': <a href="https://scratch.mit.edu/search/projects?q=art" target="_blank">https://scratch.mit.edu/search/projects?q=art</a>
+- Scratch 'kunst': <a href="https://scratch.mit.edu/search/projects?q=kunst" target="_blank">https://scratch.mit.edu/search/projects?q=kunst</a>
+
+<br>
+<br>
+<br>
 
 {{< licentie rel="http://creativecommons.org/licenses/by-nc-sa/4.0/">}}
